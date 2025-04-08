@@ -1,0 +1,8 @@
+git init
+git remote add origin https://github.com/Narsimhaswamy-Bhukya/Jenkins10.git
+git status
+git branch -M main
+git status
+git add .   OR git add Helo.java
+git commit -M "any message"
+git push -u origin main
